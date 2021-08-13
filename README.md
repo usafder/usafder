@@ -1,10 +1,9 @@
 ## Hello, there! Usman here 👋
 
-- 🔭 I’m a Software Engineer who prefers to work on frontend or full stack.
+- 🔭 I’m a Software Engineer who prefers Full Stack development.
 - 🌱 I can sometimes be found contributing to [Stack Overflow](https://stackoverflow.com/users/8075393/usafder).
 - 👯 I’m open to collaborate in any open source project.
 - 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/syed-usman-safder).
-- 💬 Ask me about anything.
 - 🎲 Aside from work I like to play soccer, table-tennis, foosball, video games, and watch animes, tv shows and movies.
 
 <a href="https://github.com/usafder/usafder">
